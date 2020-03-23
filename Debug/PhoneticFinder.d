@@ -1,0 +1,1 @@
+PhoneticFinder.o: ../PhoneticFinder.cpp

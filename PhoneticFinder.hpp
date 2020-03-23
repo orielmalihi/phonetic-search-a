@@ -14,6 +14,7 @@ using namespace std;
 namespace phonetic{
 string find(string text, string word);
 }
+char toLowerCase(char c);
 
 
 
