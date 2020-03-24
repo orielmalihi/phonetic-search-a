@@ -2,7 +2,7 @@
  * PhoneticFinder.cpp
  *
  *  Created on: 23 Mar 2020
- *      Author: oriel
+ *      Author: oriel malihi
  */
 #include <string>
 #include <iostream>
